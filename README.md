@@ -2,8 +2,8 @@
 NextJs_Test
 
 
-## 진행
-``
+## Install
+```shell
 // package init
 npm init -y
 
@@ -12,4 +12,4 @@ npm install react react-dom next
 
 // typescript 
 npm install --save-dev typescript @types/react @types/react-dom @types/node
-``
+```
